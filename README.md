@@ -1,7 +1,7 @@
 # 👻 Ghost Roll 🎲
 
 Bem-vindo ao Ghost Roll, uma adaptação digital de um popular jogo de dados onde a coragem e a vontade de capturar fantasmas se encontram! Reúna seus amigos, escolha seus nomes de caçador e veja quem é o investigador paranormal mais sortudo (ou corajoso) da rodada.
-## [➡️ CLIQUE AQUI PARA JOGAR GHOST ROLL]([https://nsu-duxs.github.io/ZombieRolls-/ZombieRoll.html](https://felipecjb.github.io/GhostRoll/GhostRoll.html))
+## [➡️ CLIQUE AQUI PARA JOGAR GHOST ROLL](https://felipecjb.github.io/GhostRoll/GhostRoll.html)
 
 ## 🚀 Funcionalidades
 
